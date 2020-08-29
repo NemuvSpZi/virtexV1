@@ -1,6 +1,6 @@
 # virtexV1
 Tools Virtex Creator
 
-# Jalan :/
+# Jalan :
 >> python2 Virtexmd.py 
 
